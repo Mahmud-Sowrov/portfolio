@@ -1,0 +1,150 @@
+body{
+    font-family: 'Open Sans', san-serif;
+}
+
+
+/* This is carousel / image slide section */
+
+.carousel-caption h1,h4,p{
+    color: white;
+    font-weight: bolder;
+}
+
+
+
+
+/* This is Navigation Bar */
+
+.collapse{
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.navbar-container{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+
+
+
+/* This is Education */
+
+
+.education-container{
+    background-color: #338833;
+}
+.edutext{
+    color: white;
+    font-weight: bolder;
+}
+
+
+.t-size{
+    color:red;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.circle{
+    color: white;
+    text-align: center;
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.card-body p{
+    color: black;
+}
+
+
+
+
+/* This is project section */
+.project-container{
+    background-color: #0DCAF0;
+}
+.pro{
+    text-align: center;
+    padding:40px;
+    font-weight: bolder;
+}
+
+.pro1{
+    text-align: justify;
+    color: black;
+}
+
+
+
+
+
+
+
+/* This is project section */
+.project-container{
+    background-color: #0DCAF0;
+}
+.pro{
+    text-align: center;
+    padding:40px;
+    font-weight: bolder;
+}
+
+.pro1{
+    text-align: justify;
+}
+
+
+/* this is contact section */
+.from-container{
+    background-color: aqua;
+}
+
+
+
+
+.col3{
+    float:right;
+}
+
+.btn1{
+    background-color:slateblue;
+    color: white;
+}
+
+
+
+
+/* this is footer seaction */
+
+.footer{
+    background-color:purple;
+}
+
+.circle-footer{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display:inline-block;
+    background-color: white;
+    font-size: 50px;
+    text-align: center;
+    color:red;
+}
+
+
+
+.circle-footer:hover{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display:inline-block;
+    background-color:red;
+    font-size: 50px;
+    text-align: center;
+    color:white;
+}
